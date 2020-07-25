@@ -1,4 +1,4 @@
-// Code to measure data and print it on the Serial monitor
+// Code to measure data and print it on the Serial monitor; July 25, 2020
 
 // Libraries
 #include "DHT.h"
