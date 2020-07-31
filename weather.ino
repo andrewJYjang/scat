@@ -1,4 +1,5 @@
 // Code to measure data and print it on the Serial monitor; July 25, 2020
+// Awesomely good members of AI study material
 
 // Libraries
 #include "DHT.h"
