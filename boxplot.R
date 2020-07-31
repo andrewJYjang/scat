@@ -1,4 +1,5 @@
-## p.118 (2) 단일 벡터 데이터의 차트 그리기
+##For scat study member's material and practice 2020 08 01 
+##p.118 (2) 단일 벡터 데이터의 차트 그리기
 
 # 단순 파이 차트 1
 install.packages("graphics")
