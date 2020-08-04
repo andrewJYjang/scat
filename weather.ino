@@ -32,12 +32,12 @@ void loop()
   float light = sensor_reading/1024*100;
   
   // Display temperature
-  Serial.print("Temperature: ");
+  Serial.print("Temperature:  ");
   Serial.print((int)temperature);
   Serial.println(" C");
   
    // Display humidity
-  Serial.print("Humidity: ");
+  Serial.print("Humidity:  ");
   Serial.print(humidity);
   Serial.println("%");
   
