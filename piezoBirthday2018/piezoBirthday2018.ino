@@ -1,3 +1,6 @@
+// KSU class 2018
+// To be useful reference for September class
+
 int speakerPin = 9;
 
 int length = 28; // the number of notes
