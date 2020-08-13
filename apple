@@ -1,0 +1,4 @@
+apple = 2020
+people = 25
+cal = apple / people 
+print(cal)
