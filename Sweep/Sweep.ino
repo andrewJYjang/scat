@@ -5,6 +5,9 @@
  modified 8 Nov 2013
  by Scott Fitzgerald
  http://www.arduino.cc/en/Tutorial/Sweep
+ 
+ modified 15 Aug 2020
+ Andrew JY Jang
 */
 
 #include <Servo.h>
