@@ -1,5 +1,5 @@
 import cv2
-import numpy as np
+import numpy as np #16 Aug 2020 testing on opencv
 
 img = np.zeros((120,120, 3), dtype=np.uint8)    # 120x120 2차원 배열 생성, 3채널 컬러 이미지
 img[25:35, :] = [255,0,0]                       # 25~35행 모든 열에 [255,0,0], 파랑색 할당 
