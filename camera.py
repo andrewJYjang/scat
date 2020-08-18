@@ -1,5 +1,4 @@
 import picamera
-
 import time
 
 with picamera.Picamera() as camera:
