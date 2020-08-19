@@ -1,4 +1,5 @@
-#include<Servo.h>                //Adding the Servo library; 2018-06-09 first testing for KyungSung class
+#include<Servo.h>                //Adding the Servo library; 2018-06-09 first testing for KyungSung class; Sae-han Lee made a great award for AI 2020, it could be another extended version from the class.
+
 
 Servo myservo;            //Define an object named MyServo
 const int eko=8;        
