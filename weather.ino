@@ -31,17 +31,17 @@ void loop()
   float sensor_reading = analogRead(A0);
   float light = sensor_reading/1024*100;
   
-  // Display temperature
+  // Display temperature with celsius
   Serial.print("Temperature:  ");
   Serial.print((int)temperature);
   Serial.println(" C");
   
-   // Display humidity
+   // Display humidity with percentage
   Serial.print("Humidity:  ");
   Serial.print(humidity);
   Serial.println("%");
   
-  // Display light level
+  // Display light level with percentage
   Serial.print("Light: ");
   Serial.print(light);
   Serial.println("%");
