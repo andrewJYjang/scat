@@ -9,6 +9,11 @@ We'll be connected to be a better me.
 //testing for commit, push, pull and others//
 
 SCAT is a KU AI stuy group from April 2020. And it's one of kind Be Kurious in 2016.
+
+
 Be curious on our future of AI generation!
+
+
+KAIST and other universities would be joined hopefully.
 Then let's do something :D
 using ATOM
